@@ -1,0 +1,23 @@
+{
+  "name": "linkenbot_desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelludwig/linkenbot_desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelludwig/linkenbot_desktop/issues"
+  },
+  "homepage": "https://github.com/axelludwig/linkenbot_desktop#readme",
+  "dependencies": {
+    "iohook": "^0.7.2",
+    "nodemon": "^2.0.7"
+  }
+}
