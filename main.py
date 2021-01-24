@@ -10,7 +10,7 @@ log_dir = ""
 
 sio = socketio.Client()
 
-sio.connect('http://localhost:8001')
+sio.connect('http://194.147.2.105:8000')
 
 list = []
 def manageList(input):
